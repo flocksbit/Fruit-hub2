@@ -1,0 +1,17 @@
+
+SplashScreen:
+  ✔ Importar imagens para o SplashScreen. @done(22-05-17 21:23)
+  ✔ Criar um SplashScreen. @done(22-05-17 21:23)
+  ✔ Realizar a transição para a tela de Welcome. @done(22-05-17 21:30)
+
+WelcomeScreen:
+   ✔ Importar Images para o WelcomeScreen. @done(22-05-18 21:30)
+   ✔ Implementar o layout. @done(22-05-18 21:30)
+   ✔ Mapear as estilizações do layout. @done(22-05-18 21:30)
+   ✔ Realizar a transição de tela. @done(22-05-18 21:42)
+
+Authentication:
+  ✔ Importar Images para o Layout. @done(22-05-18 21:43)
+  ✔ Implementar o layout. @done(22-05-18 22:15)
+  ✔ Mapear as estilizações do layout. @done(22-05-18 22:15)
+  ✔ Realizar a transição de tela. @done(22-05-18 22:15)
