@@ -39,7 +39,7 @@ class WelcomePage extends GetView<WelcomeController> {
               ),
             ),
             ElevatedButton(
-              onPressed: () => Get.offAllNamed(Routes.AUTHENTICATION),
+              onPressed: () => Get.offAllNamed(Routes.authentication),
               child: Text(
                 "Let's Continue",
                 style: TextStyles.textButtonStyle,

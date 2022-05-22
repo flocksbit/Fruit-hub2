@@ -1,8 +1,9 @@
 part of './pages.dart';
 
 abstract class Routes {
-  static const SPLASH = '/';
-  static const WELCOME = '/welcome_screen';
-  static const AUTHENTICATION = '/authentication_screen';
-  static const HOME = '/home_screen';
+  static const splash = '/';
+  static const welcome = '/welcome_screen';
+  static const authentication = '/authentication_screen';
+  static const home = '/home_screen';
+  static const basket = '/basket_screen';
 }

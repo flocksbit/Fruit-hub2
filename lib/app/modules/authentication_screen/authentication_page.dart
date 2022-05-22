@@ -41,11 +41,8 @@ class AuthenticationPage extends GetView<AuthenticationController> {
                   ),
                 ),
                 ElevatedButton(
-                  onPressed: () => Get.offAllNamed(Routes.HOME),
-                  child: Text(
-                    "Start Ordering",
-                    style: TextStyles.textButtonStyle,
-                  ),
+                  onPressed: () => Get.offAllNamed(Routes.home),
+                  child: Text("Start Ordering", style: TextStyles.textButtonStyle),
                 ),
               ],
             ),

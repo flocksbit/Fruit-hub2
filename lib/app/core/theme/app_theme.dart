@@ -9,6 +9,7 @@ class AppTheme {
     useMaterial3: true,
     primaryColor: ColorTheme.primaryColor,
     scaffoldBackgroundColor: const Color(0XFFE5E5E5),
+    appBarTheme: AppBarTheme(backgroundColor: ColorTheme.primaryColor, elevation: 0),
     elevatedButtonTheme: ElevatedButtonThemeDataCustom.buttonThemeDataCustom,
     inputDecorationTheme: InputDecorarionThemeCustom.inputDecorationThemeCustom,
   );

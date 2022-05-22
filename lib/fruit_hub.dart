@@ -11,6 +11,6 @@ class FruitHub extends StatelessWidget {
         title: 'Fruit Hub',
         theme: AppTheme.themeCustom,
         getPages: AppPages.pages,
-        initialRoute: Routes.SPLASH,
+        initialRoute: Routes.home,
       );
 }
